@@ -1,6 +1,9 @@
 
 #include <iostream>
 
+using namespace std;
+
 int main() {
-    // Write yout code here
+    cout << Hello World!<< endl;
+    return 0;
 }
